@@ -60,23 +60,23 @@ Installation
   conda deactivate
   
 For more detailed instructions on installation, refer to these sites: [gtrll-gpmp2](https://github.com/gtrll/gpmp2) and [borglab-gpmp2](https://github.com/borglab/gpmp2)
-The above installation instructions is according to the repo maintained by gtrll. Please note that the latest repo is maintained by Borg Lab. We faced multiple issues with installation of the borg lab repo. Refer to this [issue](https://github.com/borglab/gpmp2/issues/12) for more details.
+The above installation instructions are according to the repo maintained by gtrll. Please note that the latest repo is maintained by Borg Lab. We faced multiple issues with the installation of the borg lab repo. Refer to this [issue](https://github.com/borglab/gpmp2/issues/12) for more details.
   
 Simulations
 ------
   
 ![](Images/algo.png)    
   
- In this section, we explain the details regarding different simulations performed using the data collected by our golf cart. The above figure briefly summarises the trajectory optimization algorithm of GPMP2. These simulations were performed for static obstacles only using the rosbag file. Different constraints on the objective function are: obstacles, velocity and kinematic model. 
+ In this section, we explain the details regarding different simulations performed using the data collected by our golf cart. The above figure briefly summarises the trajectory optimization algorithm of GPMP2. These simulations were performed for static obstacles only using the rosbag file. Different constraints on the objective function are obstacles, velocity, and kinematic model. 
   
   
 ![](Images/arch_1)
   
-  - rosbag: bags are primary mechanism in ROS for data logging. They are used to record campus golf cart data and used in this project for multiple uses.
+  - rosbag: bags are a primary mechanism in ROS for data logging. They are used to record campus golf cart data and used in this project for multiple uses.
   - bag to csv package: this ros package is used to convert different topics from ros bag into csv files to be used for post processing.
   - MATLAB data labeller: [Label](https://www.mathworks.com/help/driving/ref/groundtruthlabeler-app.html) ground truth data for automated driving applications.
   - ref traj: this reference trajectory is generated from stack 1.0 to identify lane widths and pavements.
-  - map gen: this python scripts is used to generate static binary occupancy grid map involving the ego car and obstacles.
+  - map gen: this python script is used to generate a static binary occupancy grid map involving the ego car and obstacles.
   - gpmp2 py: this python script optimizes the trajectory using GTSAM and GPMP2 framework
   
  
@@ -87,12 +87,18 @@ Simulations
   ### Parameters
   
   - Input: start pose, end pose, velocity
-  - Factor Graph: prior factor, vehicle dyanamics factor and obstacle factor
+  - Factor Graph: prior factor, vehicle dynamics factor and obstacle factor
   - Optimizer: DogLeg or GN optimizer
   - Time settings: total steps, step size, interpolation
   - SDF: 2D signed distance field, cost_sigma, epsilon distance
   - Threshold: goal_reg and error threshold
+
+  Note: Refer to the GPMP2 paper for details about the above parameters.
+
   
+  ### Future Work
+
+  The next step would be to test this algorithm on real hardware. A good starting point would be [PIPER](https://github.com/gtrll/piper), which is the ROS interface for the GPMP2 algorithm. Also, the python examples list out a few guidelines for building ROS interface. Furthermore, it is important to also figure out when would this algorithm kick in. Kindly refer to these files for stack 1.0: [state_specific_logic](https://github.com/AutonomousVehicleLaboratory/stack2_planning/blob/main/planning/op_planner/src/DecisionMaker.cpp) | [state_machine](https://github.com/AutonomousVehicleLaboratory/stack2_planning/blob/main/planning/op_planner/src/BehaviorStateMachine.cpp) 
 
   
   

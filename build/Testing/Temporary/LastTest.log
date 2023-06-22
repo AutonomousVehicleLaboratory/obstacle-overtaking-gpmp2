@@ -1,0 +1,835 @@
+Start testing: Jul 21 15:16 PDT
+----------------------------------------------------------
+1/37 Testing: testDynamicVector
+1/37 Test: testDynamicVector
+Command: "/home/kai/gpmp2/build/gpmp2/geometry/testDynamicVector"
+Directory: /home/kai/gpmp2/build/gpmp2/geometry
+"testDynamicVector" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Not equal:
+expected:
+1
+2
+3
+actual:
+4
+5
+6
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDynamicVector" end time: Jul 21 15:16 PDT
+"testDynamicVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/37 Testing: testPose2Vector
+2/37 Test: testPose2Vector
+Command: "/home/kai/gpmp2/build/gpmp2/geometry/testPose2Vector"
+Directory: /home/kai/gpmp2/build/gpmp2/geometry
+"testPose2Vector" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2Vector" end time: Jul 21 15:16 PDT
+"testPose2Vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/37 Testing: testProductDynamicLieGroup
+3/37 Test: testProductDynamicLieGroup
+Command: "/home/kai/gpmp2/build/gpmp2/geometry/testProductDynamicLieGroup"
+Directory: /home/kai/gpmp2/build/gpmp2/geometry
+"testProductDynamicLieGroup" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testProductDynamicLieGroup" end time: Jul 21 15:16 PDT
+"testProductDynamicLieGroup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/37 Testing: testGaussianProcessPriorLinear
+4/37 Test: testGaussianProcessPriorLinear
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessPriorLinear"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessPriorLinear" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessPriorLinear" end time: Jul 21 15:16 PDT
+"testGaussianProcessPriorLinear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/37 Testing: testGaussianProcessInterpolatorPose3
+5/37 Test: testGaussianProcessInterpolatorPose3
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessInterpolatorPose3"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessInterpolatorPose3" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessInterpolatorPose3" end time: Jul 21 15:16 PDT
+"testGaussianProcessInterpolatorPose3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/37 Testing: testGaussianProcessPriorPose2Vector
+6/37 Test: testGaussianProcessPriorPose2Vector
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessPriorPose2Vector"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessPriorPose2Vector" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessPriorPose2Vector" end time: Jul 21 15:16 PDT
+"testGaussianProcessPriorPose2Vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/37 Testing: testGaussianProcessInterpolatorPose2
+7/37 Test: testGaussianProcessInterpolatorPose2
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessInterpolatorPose2"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessInterpolatorPose2" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessInterpolatorPose2" end time: Jul 21 15:16 PDT
+"testGaussianProcessInterpolatorPose2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/37 Testing: testGaussianProcessPriorPose2
+8/37 Test: testGaussianProcessPriorPose2
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessPriorPose2"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessPriorPose2" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessPriorPose2" end time: Jul 21 15:16 PDT
+"testGaussianProcessPriorPose2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/37 Testing: testGaussianProcessInterpolatorPose2Vector
+9/37 Test: testGaussianProcessInterpolatorPose2Vector
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessInterpolatorPose2Vector"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessInterpolatorPose2Vector" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessInterpolatorPose2Vector" end time: Jul 21 15:16 PDT
+"testGaussianProcessInterpolatorPose2Vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/37 Testing: testGaussianProcessInterpolatorLinear
+10/37 Test: testGaussianProcessInterpolatorLinear
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessInterpolatorLinear"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessInterpolatorLinear" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Not equal:
+expected:
+GaussianProcessInterpolatorLinear(3)
+delta_t = 0.1, tau = 0.03
+actual:
+GaussianProcessInterpolatorLinear(3)
+delta_t = 0.1, tau = 0.03
+Not equal:
+expected:
+GaussianProcessInterpolatorLinear(3)
+delta_t = 0.1, tau = 0.03
+actual:
+GaussianProcessInterpolatorLinear(3)
+delta_t = 0.2, tau = 0.03
+Not equal:
+expected:
+GaussianProcessInterpolatorLinear(3)
+delta_t = 0.1, tau = 0.03
+actual:
+GaussianProcessInterpolatorLinear(3)
+delta_t = 0.1, tau = 0.06
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessInterpolatorLinear" end time: Jul 21 15:16 PDT
+"testGaussianProcessInterpolatorLinear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/37 Testing: testGaussianProcessPriorPose3
+11/37 Test: testGaussianProcessPriorPose3
+Command: "/home/kai/gpmp2/build/gpmp2/gp/testGaussianProcessPriorPose3"
+Directory: /home/kai/gpmp2/build/gpmp2/gp
+"testGaussianProcessPriorPose3" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianProcessPriorPose3" end time: Jul 21 15:16 PDT
+"testGaussianProcessPriorPose3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/37 Testing: testPose2MobileVetLin2Arms
+12/37 Test: testPose2MobileVetLin2Arms
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testPose2MobileVetLin2Arms"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testPose2MobileVetLin2Arms" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2MobileVetLin2Arms" end time: Jul 21 15:16 PDT
+"testPose2MobileVetLin2Arms" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/37 Testing: testGaussianPriorWorkspaceOrientation
+13/37 Test: testGaussianPriorWorkspaceOrientation
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testGaussianPriorWorkspaceOrientation"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testGaussianPriorWorkspaceOrientation" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Initial error: 493.48
+newError: 1.2337e-12
+errorThreshold: 1.2337e-12 > 0
+absoluteDecrease: 493.480220054 >= 1e-12
+relativeDecrease: 1 >= 1e-05
+newError: 3.08425125055e-27
+errorThreshold: 3.08425125055e-27 > 0
+absoluteDecrease: 1.23370042387e-12 >= 1e-12
+relativeDecrease: 1 >= 1e-05
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+newError: 3.08425125055e-27
+errorThreshold: 3.08425125055e-27 > 0
+absoluteDecrease: 0 < 1e-12
+relativeDecrease: 0 < 1e-05
+converged
+errorThreshold: 3.08425125055e-27 <? 0
+absoluteDecrease: 0 <? 1e-12
+relativeDecrease: 0 <? 1e-05
+iterations: 2 >? 100
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianPriorWorkspaceOrientation" end time: Jul 21 15:16 PDT
+"testGaussianPriorWorkspaceOrientation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/37 Testing: testJointLimitFactorPose2Vector
+14/37 Test: testJointLimitFactorPose2Vector
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testJointLimitFactorPose2Vector"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testJointLimitFactorPose2Vector" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Exiting, as error = 0 < 0
+Initial error: 2.65e+07
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 26500000 >= 1e-12
+relativeDecrease: 0.999999999999 >= 1e-05
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 0 < 1e-12
+relativeDecrease: 0 < 1e-05
+converged
+errorThreshold: 2.65e-05 <? 0
+absoluteDecrease: 0 <? 1e-12
+relativeDecrease: 0 <? 1e-05
+iterations: 2 >? 100
+Initial error: 26500000
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 26500000 >= 1e-12
+relativeDecrease: 0.999999999999 >= 1e-05
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 0 < 1e-12
+relativeDecrease: 0 < 1e-05
+converged
+errorThreshold: 2.65e-05 <? 0
+absoluteDecrease: 0 <? 1e-12
+relativeDecrease: 0 <? 1e-05
+iterations: 2 >? 100
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testJointLimitFactorPose2Vector" end time: Jul 21 15:16 PDT
+"testJointLimitFactorPose2Vector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/37 Testing: testPose2Mobile2Arms
+15/37 Test: testPose2Mobile2Arms
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testPose2Mobile2Arms"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testPose2Mobile2Arms" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2Mobile2Arms" end time: Jul 21 15:16 PDT
+"testPose2Mobile2Arms" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/37 Testing: testPose2MobileVetLinArm
+16/37 Test: testPose2MobileVetLinArm
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testPose2MobileVetLinArm"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testPose2MobileVetLinArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2MobileVetLinArm" end time: Jul 21 15:16 PDT
+"testPose2MobileVetLinArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/37 Testing: testJointLimitFactorVector
+17/37 Test: testJointLimitFactorVector
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testJointLimitFactorVector"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testJointLimitFactorVector" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Exiting, as error = 0 < 0
+Initial error: 2.65e+07
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 26500000 >= 1e-12
+relativeDecrease: 0.999999999999 >= 1e-05
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 0 < 1e-12
+relativeDecrease: 0 < 1e-05
+converged
+errorThreshold: 2.65e-05 <? 0
+absoluteDecrease: 0 <? 1e-12
+relativeDecrease: 0 <? 1e-05
+iterations: 2 >? 100
+Initial error: 26500000
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 26500000 >= 1e-12
+relativeDecrease: 0.999999999999 >= 1e-05
+newError: 2.65e-05
+errorThreshold: 2.65e-05 > 0
+absoluteDecrease: 0 < 1e-12
+relativeDecrease: 0 < 1e-05
+converged
+errorThreshold: 2.65e-05 <? 0
+absoluteDecrease: 0 <? 1e-12
+relativeDecrease: 0 <? 1e-05
+iterations: 2 >? 100
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testJointLimitFactorVector" end time: Jul 21 15:16 PDT
+"testJointLimitFactorVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/37 Testing: testPointRobotModel
+18/37 Test: testPointRobotModel
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testPointRobotModel"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testPointRobotModel" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPointRobotModel" end time: Jul 21 15:16 PDT
+"testPointRobotModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/37 Testing: testGaussianPriorWorkspacePose
+19/37 Test: testGaussianPriorWorkspacePose
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testGaussianPriorWorkspacePose"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testGaussianPriorWorkspacePose" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Initial error: 1727.18
+newError: 115.27
+errorThreshold: 115.27 > 0
+absoluteDecrease: 1611.91042352 >= 1e-12
+relativeDecrease: 0.933260983065 >= 1e-05
+newError: 2.76867355049
+errorThreshold: 2.76867355049 > 0
+absoluteDecrease: 112.501673121 >= 1e-12
+relativeDecrease: 0.975981042563 >= 1e-05
+newError: 0.0228542445003
+errorThreshold: 0.0228542445003 > 0
+absoluteDecrease: 2.74581930599 >= 1e-12
+relativeDecrease: 0.991745417405 >= 1e-05
+newError: 4.4219753484e-08
+errorThreshold: 4.4219753484e-08 > 0
+absoluteDecrease: 0.0228542002806 >= 1e-12
+relativeDecrease: 0.99999806514 >= 1e-05
+newError: 3.86532114872e-25
+errorThreshold: 3.86532114872e-25 > 0
+absoluteDecrease: 4.4219753484e-08 >= 1e-12
+relativeDecrease: 1 >= 1e-05
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+newError: 3.86532114872e-25
+errorThreshold: 3.86532114872e-25 > 0
+absoluteDecrease: 0 < 1e-12
+relativeDecrease: 0 < 1e-05
+converged
+errorThreshold: 3.86532114872e-25 <? 0
+absoluteDecrease: 0 <? 1e-12
+relativeDecrease: 0 <? 1e-05
+iterations: 5 >? 100
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianPriorWorkspacePose" end time: Jul 21 15:16 PDT
+"testGaussianPriorWorkspacePose" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/37 Testing: testArmModel
+20/37 Test: testArmModel
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testArmModel"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testArmModel" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testArmModel" end time: Jul 21 15:16 PDT
+"testArmModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/37 Testing: testMobileBaseUtils
+21/37 Test: testMobileBaseUtils
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testMobileBaseUtils"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testMobileBaseUtils" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testMobileBaseUtils" end time: Jul 21 15:16 PDT
+"testMobileBaseUtils" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/37 Testing: testPose2MobileArm
+22/37 Test: testPose2MobileArm
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testPose2MobileArm"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testPose2MobileArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2MobileArm" end time: Jul 21 15:16 PDT
+"testPose2MobileArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/37 Testing: testPose2MobileBase
+23/37 Test: testPose2MobileBase
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testPose2MobileBase"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testPose2MobileBase" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPose2MobileBase" end time: Jul 21 15:16 PDT
+"testPose2MobileBase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/37 Testing: testGaussianPriorWorkspacePosition
+24/37 Test: testGaussianPriorWorkspacePosition
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testGaussianPriorWorkspacePosition"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testGaussianPriorWorkspacePosition" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Initial error: 117.157
+newError: 1.23299
+errorThreshold: 1.23299 > 0
+absoluteDecrease: 115.92430009 >= 1e-12
+relativeDecrease: 0.989475793939 >= 1e-05
+newError: 0.00372781040402
+errorThreshold: 0.00372781040402 > 0
+absoluteDecrease: 1.22925962509 >= 1e-12
+relativeDecrease: 0.996976603089 >= 1e-05
+newError: 0.000226389934419
+errorThreshold: 0.000226389934419 > 0
+absoluteDecrease: 0.0035014204696 >= 1e-12
+relativeDecrease: 0.939269997698 >= 1e-05
+newError: 1.41430150378e-05
+errorThreshold: 1.41430150378e-05 > 0
+absoluteDecrease: 0.000212246919381 >= 1e-12
+relativeDecrease: 0.93752807485 >= 1e-05
+newError: 8.83841320653e-07
+errorThreshold: 8.83841320653e-07 > 0
+absoluteDecrease: 1.32591737171e-05 >= 1e-12
+relativeDecrease: 0.937506866938 >= 1e-05
+newError: 5.52385731973e-08
+errorThreshold: 5.52385731973e-08 > 0
+absoluteDecrease: 8.28602747455e-07 >= 1e-12
+relativeDecrease: 0.937501707709 >= 1e-05
+newError: 3.45238743731e-09
+errorThreshold: 3.45238743731e-09 > 0
+absoluteDecrease: 5.178618576e-08 >= 1e-12
+relativeDecrease: 0.937500423391 >= 1e-05
+newError: 2.15773854295e-10
+errorThreshold: 2.15773854295e-10 > 0
+absoluteDecrease: 3.23661358302e-09 >= 1e-12
+relativeDecrease: 0.937500104431 >= 1e-05
+newError: 1.34858603731e-11
+errorThreshold: 1.34858603731e-11 > 0
+absoluteDecrease: 2.02287993922e-10 >= 1e-12
+relativeDecrease: 0.937500025584 >= 1e-05
+newError: 1.71305073111e-12
+errorThreshold: 1.71305073111e-12 > 0
+absoluteDecrease: 1.1772809642e-11 >= 1e-12
+relativeDecrease: 0.872974309112 >= 1e-05
+newError: 1.31209404506e-12
+errorThreshold: 1.31209404506e-12 > 0
+absoluteDecrease: 4.00956686045e-13 < 1e-12
+relativeDecrease: 0.234060018634 >= 1e-05
+converged
+errorThreshold: 1.31209404506e-12 <? 0
+absoluteDecrease: 4.00956686045e-13 <? 1e-12
+relativeDecrease: 0.234060018634 <? 1e-05
+iterations: 11 >? 100
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGaussianPriorWorkspacePosition" end time: Jul 21 15:16 PDT
+"testGaussianPriorWorkspacePosition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/37 Testing: testArm
+25/37 Test: testArm
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testArm"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testArm" end time: Jul 21 15:16 PDT
+"testArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/37 Testing: testGoalFactorArm
+26/37 Test: testGoalFactorArm
+Command: "/home/kai/gpmp2/build/gpmp2/kinematics/testGoalFactorArm"
+Directory: /home/kai/gpmp2/build/gpmp2/kinematics
+"testGoalFactorArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Initial error: 117.157
+newError: 1.23299
+errorThreshold: 1.23299 > 0
+absoluteDecrease: 115.92430009 >= 1e-12
+relativeDecrease: 0.989475793939 >= 1e-05
+newError: 0.00372781040402
+errorThreshold: 0.00372781040402 > 0
+absoluteDecrease: 1.22925962509 >= 1e-12
+relativeDecrease: 0.996976603089 >= 1e-05
+newError: 0.000226389934419
+errorThreshold: 0.000226389934419 > 0
+absoluteDecrease: 0.0035014204696 >= 1e-12
+relativeDecrease: 0.939269997698 >= 1e-05
+newError: 1.41430150378e-05
+errorThreshold: 1.41430150378e-05 > 0
+absoluteDecrease: 0.000212246919381 >= 1e-12
+relativeDecrease: 0.93752807485 >= 1e-05
+newError: 8.83841320653e-07
+errorThreshold: 8.83841320653e-07 > 0
+absoluteDecrease: 1.32591737171e-05 >= 1e-12
+relativeDecrease: 0.937506866938 >= 1e-05
+newError: 5.52385731973e-08
+errorThreshold: 5.52385731973e-08 > 0
+absoluteDecrease: 8.28602747455e-07 >= 1e-12
+relativeDecrease: 0.937501707709 >= 1e-05
+newError: 3.45238743731e-09
+errorThreshold: 3.45238743731e-09 > 0
+absoluteDecrease: 5.178618576e-08 >= 1e-12
+relativeDecrease: 0.937500423391 >= 1e-05
+newError: 2.15773854295e-10
+errorThreshold: 2.15773854295e-10 > 0
+absoluteDecrease: 3.23661358302e-09 >= 1e-12
+relativeDecrease: 0.937500104431 >= 1e-05
+newError: 1.34858603731e-11
+errorThreshold: 1.34858603731e-11 > 0
+absoluteDecrease: 2.02287993922e-10 >= 1e-12
+relativeDecrease: 0.937500025584 >= 1e-05
+newError: 1.71305073111e-12
+errorThreshold: 1.71305073111e-12 > 0
+absoluteDecrease: 1.1772809642e-11 >= 1e-12
+relativeDecrease: 0.872974309112 >= 1e-05
+newError: 1.31209404506e-12
+errorThreshold: 1.31209404506e-12 > 0
+absoluteDecrease: 4.00956686045e-13 < 1e-12
+relativeDecrease: 0.234060018634 >= 1e-05
+converged
+errorThreshold: 1.31209404506e-12 <? 0
+absoluteDecrease: 4.00956686045e-13 <? 1e-12
+relativeDecrease: 0.234060018634 <? 1e-05
+iterations: 11 >? 100
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testGoalFactorArm" end time: Jul 21 15:16 PDT
+"testGoalFactorArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/37 Testing: testVehicleDynamics
+27/37 Test: testVehicleDynamics
+Command: "/home/kai/gpmp2/build/gpmp2/dynamics/testVehicleDynamics"
+Directory: /home/kai/gpmp2/build/gpmp2/dynamics
+"testVehicleDynamics" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testVehicleDynamics" end time: Jul 21 15:16 PDT
+"testVehicleDynamics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/37 Testing: testObstacleSDFFactorArm
+28/37 Test: testObstacleSDFFactorArm
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testObstacleSDFFactorArm"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testObstacleSDFFactorArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testObstacleSDFFactorArm" end time: Jul 21 15:16 PDT
+"testObstacleSDFFactorArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/37 Testing: testObstaclePlanarSDFFactorGPArm
+29/37 Test: testObstaclePlanarSDFFactorGPArm
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testObstaclePlanarSDFFactorGPArm"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testObstaclePlanarSDFFactorGPArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testObstaclePlanarSDFFactorGPArm" end time: Jul 21 15:16 PDT
+"testObstaclePlanarSDFFactorGPArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/37 Testing: testSelfCollision
+30/37 Test: testSelfCollision
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testSelfCollision"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testSelfCollision" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSelfCollision" end time: Jul 21 15:16 PDT
+"testSelfCollision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/37 Testing: testObstaclePlanarSDFFactorArm
+31/37 Test: testObstaclePlanarSDFFactorArm
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testObstaclePlanarSDFFactorArm"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testObstaclePlanarSDFFactorArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testObstaclePlanarSDFFactorArm" end time: Jul 21 15:16 PDT
+"testObstaclePlanarSDFFactorArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/37 Testing: testPlanarSDF
+32/37 Test: testPlanarSDF
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testPlanarSDF"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testPlanarSDF" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPlanarSDF" end time: Jul 21 15:16 PDT
+"testPlanarSDF" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/37 Testing: testSignedDistanceField
+33/37 Test: testSignedDistanceField
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testSignedDistanceField"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testSignedDistanceField" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testSignedDistanceField" end time: Jul 21 15:16 PDT
+"testSignedDistanceField" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/37 Testing: testObstacleSDFFactorGPArm
+34/37 Test: testObstacleSDFFactorGPArm
+Command: "/home/kai/gpmp2/build/gpmp2/obstacle/testObstacleSDFFactorGPArm"
+Directory: /home/kai/gpmp2/build/gpmp2/obstacle
+"testObstacleSDFFactorGPArm" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testObstacleSDFFactorGPArm" end time: Jul 21 15:16 PDT
+"testObstacleSDFFactorGPArm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/37 Testing: testTrajUtils
+35/37 Test: testTrajUtils
+Command: "/home/kai/gpmp2/build/gpmp2/planner/testTrajUtils"
+Directory: /home/kai/gpmp2/build/gpmp2/planner
+"testTrajUtils" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testTrajUtils" end time: Jul 21 15:16 PDT
+"testTrajUtils" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/37 Testing: testISAM2TrajOptimizer
+36/37 Test: testISAM2TrajOptimizer
+Command: "/home/kai/gpmp2/build/gpmp2/planner/testISAM2TrajOptimizer"
+Directory: /home/kai/gpmp2/build/gpmp2/planner
+"testISAM2TrajOptimizer" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+There were no test failures
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testISAM2TrajOptimizer" end time: Jul 21 15:16 PDT
+"testISAM2TrajOptimizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/37 Testing: testTimer
+37/37 Test: testTimer
+Command: "/home/kai/gpmp2/build/gpmp2/utils/testTimer"
+Directory: /home/kai/gpmp2/build/gpmp2/utils
+"testTimer" start time: Jul 21 15:16 PDT
+Output:
+----------------------------------------------------------
+Fixed Size time used: 4080us
+Dynamic Size time used: 3285us
+There were no test failures
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testTimer" end time: Jul 21 15:16 PDT
+"testTimer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 21 15:16 PDT

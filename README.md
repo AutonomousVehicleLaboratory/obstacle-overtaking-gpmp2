@@ -8,7 +8,7 @@ Introduction
   <img src="./Images/UCSD_GPMP2.gif" align="center" ></a>
 
 Relevant Links:
-[Literature](https://faculty.cc.gatech.edu/~bboots3/files/GPMP2.pdf) | [GPMP2 Github](https://faculty.cc.gatech.edu/~bboots3/files/GPMP2.pdf) | [Simulation](https://github.com/AutonomousVehicleLaboratory/UCSD_AVL_GPMP2)  
+[Literature](https://faculty.cc.gatech.edu/~bboots3/files/GPMP2.pdf) | [GPMP2 Github](https://faculty.cc.gatech.edu/~bboots3/files/GPMP2.pdf)
   
 Installation
   ------
